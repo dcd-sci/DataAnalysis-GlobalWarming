@@ -4,25 +4,24 @@ Este repositório contém uma análise exploratória de dados sobre mudanças cl
 
 ## ✨ Principais Descobertas
 
-Tendência de aquecimento: A temperatura média global mostra um aumento constante ao longo dos séculos.
+* Tendência de aquecimento: A temperatura média global mostra um aumento constante ao longo dos séculos.
 
-Variação sazonal: O comportamento médio mensal segue uma curva de sino, enquanto a tendência anual é crescente.
+* Variação sazonal: O comportamento médio mensal segue uma curva de sino, enquanto a tendência anual é crescente.
 
-Extremos de temperatura: Identificação de anos quentes e frios extremos usando desvio padrão.
+* Extremos de temperatura: Identificação de anos quentes e frios extremos usando desvio padrão.
 
-Comparativo por décadas: Avaliação da taxa de aquecimento entre períodos históricos.
+* Comparativo por décadas: Avaliação da taxa de aquecimento entre períodos históricos.
 
 ## 🔧 Tecnologias Utilizadas
 
-Linguagem: Python
+Linguagem: 
+* Python
 
 Bibliotecas:
 
-pandas para manipulação de dados
-
-matplotlib e seaborn para visualizações
-
-numpy para cálculos estatísticos
+* pandas para manipulação de dados
+* matplotlib e seaborn para visualizações
+* numpy para cálculos estatísticos
 
 ### 🛠 Como Reproduzir a Análise
 
